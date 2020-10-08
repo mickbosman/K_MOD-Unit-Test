@@ -4,7 +4,7 @@ bool boolCheck() {
 }
 
 String varCheck() {
-  var name = 'Dia';
+  var name = 'Mick';
   return name;
 }
 
